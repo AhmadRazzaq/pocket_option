@@ -49,7 +49,7 @@ class PocketCrawlSpider(Spider):
                 result = {}
                 continue
         url = "https://affiliate.pocketoption.com/en/login"
-        payload = f'_token={token}&email=fasehfaizan0%40gmail.com&password=Faseh!%40%231234&g-recaptcha-response={result["code"]}'
+        payload = f'_token={token}&email=Igorcaiaffa@gmail.com&password=Vavi2608@@#&g-recaptcha-response={result["code"]}'
         headers = {
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'en-US,en;q=0.9',
