@@ -1,0 +1,13 @@
+setup.py
+pocket_option_console/__init__.py
+pocket_option_console/items.py
+pocket_option_console/middlewares.py
+pocket_option_console/pipelines.py
+pocket_option_console/settings.py
+pocket_option_console/spiders/__init__.py
+pocket_option_console/spiders/pocket_crawl.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
